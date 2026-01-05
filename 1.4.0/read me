@@ -1,0 +1,34 @@
+v1.4.0 Features:
+
+✅ Real system theme icons
+✅ C++ Icon Provider
+✅ Automatic icon mapping
+✅ Size handling
+✅ Debug logging
+✅ Theme support
+✅ Professional integration
+
+All features working:
+
+✅ System icons (finally!)
+✅ Confirmation dialogs
+✅ Favorites persistence
+✅ Context menus
+✅ Search apps
+✅ Hide/uninstall apps
+✅ Bear themed
+
+
+System icons now working with proper Qt architecture!
+Made with 🐻 and ❤️ by Bear Apps
+🔗 Learn More
+Qt Documentation:
+
+QQuickImageProvider: https://doc.qt.io/qt-5/qquickimageprovider.html
+QIcon::fromTheme(): https://doc.qt.io/qt-5/qicon.html#fromTheme
+
+FreeDesktop Icon Theme Spec:
+
+https://specifications.freedesktop.org/icon-theme-spec/
+
+This is how professional Qt applications integrate system icons!
